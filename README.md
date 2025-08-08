@@ -2,9 +2,10 @@ Documento de ingeniería / TEAMROBOCRV
 
 Este repositorio contiene todos los materiales necesarios para crear a "Rexbot", el robot autónomo creado por el equipo "TeamRoboCRV", con el objetivo de participar en la categoría de Futuros Ingenieros en las diferentes etapas de la WRO Venezuela, en su edición 2025.
 
-![Imagen1](https://github.com/user-attachments/assets/9aee1a55-2309-4616-9f11-738c57bbdfeb)
+<img width="1590" height="644" alt="image" src="https://github.com/user-attachments/assets/3cda8af7-7508-41e8-81a8-01996fec2341" />
 
-CONTENIDO
+
+ TABLA DE CONTENIDO
 [Miembros del equipo TEAMROBOCRV]
 [Introduccion]
 [Diseño mecánico]
@@ -12,18 +13,50 @@ CONTENIDO
 
 MIEMBROS DEL TEAMROBOCRV
 
--Gianni Marcello Martucci Jerez
+-Gianni Marcello Martucci Jerez (alias winni POOH) Esta rellenito de amor
 
--Juan Andres Graterol
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/1bcc44ed-ea78-4fa7-93d5-581ea6aad23a" />
 
--Dennis Adrian Silva Riera
+
+-Juan Andres Graterol Teran (Wido) El mas rápido en pix pix
+
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/51b3d7c0-b54a-4267-ae77-e930a64322b0" />
+
+-Dennis Adrian Silva Riera (alias Mate) le la da loquera de repente
+
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/140671eb-8c9f-4bf1-bf3d-6eb409680a4d" />
+
+Entrenador
+
+-Luis Eduardo Paredes
+
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/12b81259-f88b-43d7-be25-c19f183fe3eb" />
+
+
+TABLA DE CONTENIDO
+
+[ideas y principios](ideas y principios)
+
+[documentación del hardware](documentación del hardware)
+
+[documentación del software](documentación del software)
+
+[documentación de la recarga de firmware](camara)
+
+[videos](videos)
+
+[fotos](fotos)
+
+[fotos de equipo](fotos de equipo)
+
+[fotos de REXBOT2.0](fotos de rexbot)
+
 
 INTRODUCCIÓN
 
-Nuestro proyecto consiste en la fabricación de un vehículo terrestre automatizado, que navega en un entorno señalizado por obstáculos de colores, tomando diferentes caminos en función  de las características y propiedades de dichos obstáculos. Utilizamos una tecnología basada en Arduino (C++), que posee una programación compuesta por sensores ultrasónicos que envían y reciben pulsos a una distancia preestablecida en el código, los cuales al detectar la proximidad de un objeto, envían una señal a la placa Arduino, que indicará al sistema de movimiento del vehículo hacia donde dirigirse, en sentido horario o antihorario, según lo preestablecido. Por otro lado, también cuenta con un sensor de visión o cámara  HuskyLens (Gravity) para detectar los obstáculos de colores, y evadirlos cuando seanecesario. Dependiendo del color, se desplazará por la derecha o la izquierda del obstáculo, según lo requerido. 
+Nuestro proyecto consiste en la fabricación de un vehículo terrestre automatizado, que navega en un entorno señalizado por obstáculos de colores, tomando diferentes caminos en función  de las características y propiedades de dichos obstáculos. Utilizamos una tecnología basada en Arduino (C++), que posee una programación compuesta por sensores ultrasónicos que envían y reciben pulsos a una distancia preestablecida en el código, los cuales al detectar la proximidad de un objeto, envían una señal a la placa Arduino, que indicará al sistema de movimiento del vehículo hacia donde dirigirse, en sentido horario o antihorario, según lo preestablecido. Por otro lado, también cuenta con un sensor de visión o cámara  HuskyLens (Gravity) para detectar los obstáculos de colores, y evadirlos cuando sea necesario. Dependiendo del color, se desplazará por la derecha o la izquierda del obstáculo, según lo requerido. 
 
-El código fue creado en un equipo portátil bajo sistema operativo Windows 10 y/o GNU-Linux 5.15.0. El software utilizado es Arduino IDE versión 1.8.18, cargado a una placa Arduino Mega, a través de un cable de transmisión de datos. Esta placa está abastecida por 2 baterías de litio de 3.7 voltios.
-
+El código fue creado en un equipo portátil bajo sistema operativo Windows 10 y/o GNU-Linux 5.15.0. El software utilizado es Arduino IDE versión 2.3.6, cargado a una placa Arduino Mega, a través de un cable de transmisión de datos. Esta placa está abastecida por 2 baterías de litio  18650 de 3.7 voltios.
 DISEÑO MECÁNICO
 
 REXBOT2.0 Es un robot autónomo que está construido de forma original usando diversos equipos de muchas fuentes para poder realizar un robot con un diseño completamente propio en Hardware y Software. Utilizando tanto piezas impresas en 3D (CAD), como piezas de Lego gracias a su fiabilidad en ejecución. Este robot debe su movilidad a su motor DC utilizando una caja de engranajes para mayor eficiencia, conectado a dos ruedas traseras para la tracción, unidas a través de un solo eje. Su Sistema de dirección delantera trabaja a través de un servomotor (servomotor mg996r) que consta de tres pines, positivo, negativo y datos que va a la placa Arduino Mega al pin 3, para controlar sus giros mediante grados siendo así el mas confiable y preciso para dar sus giros.
