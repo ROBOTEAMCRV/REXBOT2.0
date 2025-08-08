@@ -7,9 +7,25 @@ Este repositorio contiene todos los materiales necesarios para crear a "Rexbot",
 
  TABLA DE CONTENIDO
 [Miembros del equipo TEAMROBOCRV]
-[Introduccion]
-[Diseño mecánico]
-[Diseño del software]
+
+
+[ideas y principios](ideas y principios)
+
+[documentación del hardware](documentación del hardware)
+
+[documentación del software](documentación del software)
+
+[documentación de la recarga de firmware](camara)
+
+[videos](videos)
+
+[fotos](fotos)
+
+[fotos de equipo](fotos de equipo)
+
+[fotos de REXBOT2.0](fotos de rexbot)
+
+
 
 MIEMBROS DEL TEAMROBOCRV
 
@@ -31,26 +47,6 @@ Entrenador
 -Luis Eduardo Paredes
 
 <img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/12b81259-f88b-43d7-be25-c19f183fe3eb" />
-
-
-TABLA DE CONTENIDO
-
-[ideas y principios](ideas y principios)
-
-[documentación del hardware](documentación del hardware)
-
-[documentación del software](documentación del software)
-
-[documentación de la recarga de firmware](camara)
-
-[videos](videos)
-
-[fotos](fotos)
-
-[fotos de equipo](fotos de equipo)
-
-[fotos de REXBOT2.0](fotos de rexbot)
-
 
 INTRODUCCIÓN
 
