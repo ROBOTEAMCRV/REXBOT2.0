@@ -17,13 +17,13 @@ Este repositorio contiene todos los materiales necesarios para crear a "Rexbot",
 
 [documentación de la recarga de firmware](camara)
 
-[videos](videos)
+[Videos](Videos)
 
-[fotos](fotos)
+[Fotos](Fotos)
 
-[fotos de equipo](fotos de equipo)
+[Fotos de equipo](Fotos de equipo)
 
-[fotos de REXBOT2.0](fotos de rexbot)
+[Fotos de REXBOT2.0](Fotos de rexbot)
 
 
 
