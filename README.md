@@ -9,8 +9,6 @@ Este repositorio contiene todos los materiales necesarios para crear a "Rexbot",
 [Miembros del equipo TEAMROBOCRV]
 
 
-[IDEAS Y PRINCIPIOS](IDEAS Y PRINCIPIOS)
-
 [documentación del hardware](documentación del hardware)
 
 [documentación del software](documentación del software)
@@ -20,6 +18,8 @@ Este repositorio contiene todos los materiales necesarios para crear a "Rexbot",
 [Videos](Videos)
 
 [Fotos](Fotos)
+
+[IDEAS Y PRINCIPIOS](IDEAS Y PRINCIPIOS)
 
 [Fotos de equipo](Fotos de equipo)
 
