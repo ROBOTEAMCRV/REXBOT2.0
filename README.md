@@ -22,7 +22,7 @@ Este repositorio contiene todos los materiales necesarios para crear a "Rexbot",
 
 [Videos](Videos)
 
-[Fotos](Fotos)
+[Fotos del REXBOT2.0](Fotos_del_REXBOT2.0)
 
 [Codigo](Codigo)
 
