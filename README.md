@@ -8,19 +8,23 @@ Este repositorio contiene todos los materiales necesarios para crear a "Rexbot",
  TABLA DE CONTENIDO
 [Miembros del equipo TEAMROBOCRV]
 
-[gestión de potencia y sentidos](gestión_de_potencia_y_sentidos)
+[Gestión de potencia y sentidos](Gestión_de_potencia_y_sentidos)
 
-[gestión de movilidad](gestión_de_movilidad)
+[Gestión de movilidad](Gestión_de_movilidad)
 
-[gestión de obstaculos](gestión_de_obstaculos)
+[Gestión de obstaculos](Gestión_de_obstaculos)
 
 [Diagrama de cableado](diagrama_de_cableado)
 
-[Ideas y principios](ideas_y_principios)
+[Documentacion_del harwdware_y_archivos_CAD](Documentacion_del_harwdware_y_archivos_CAD)
+
+[Ideas y principios](Ideas_y_principios)
 
 [Videos](Videos)
 
 [Fotos](Fotos)
+
+[Codigo](Codigo)
 
 
 MIEMBROS DEL TEAMROBOCRV
