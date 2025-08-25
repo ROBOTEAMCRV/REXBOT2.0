@@ -11,20 +11,11 @@ Este repositorio contiene todos los materiales necesarios para crear a "Rexbot",
 
 [gestión de movilidad](gestióndemovilidad)
 
-[gestion de movilidad](gestiondepotenciaysentidos)
-
-[documentación de la recarga de firmware](camara)
+[gestion de potencia y sentidos](gestiondepotenciaysentidos)
 
 [Videos](Videos)
 
 [Fotos](Fotos)
-
-[IDEAS Y PRINCIPIOS](IDEAS Y PRINCIPIOS)
-
-[Fotos de equipo](Fotos de equipo)
-
-[Fotos de REXBOT2.0](Fotos de rexbot)
-
 
 
 MIEMBROS DEL TEAMROBOCRV
