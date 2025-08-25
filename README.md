@@ -9,9 +9,9 @@ Este repositorio contiene todos los materiales necesarios para crear a "Rexbot",
 [Miembros del equipo TEAMROBOCRV]
 
 
-[documentación del hardware](documentación del hardware)
+[gestión de movilidad](gestióndemovilidad)
 
-[documentación del software](documentación del software)
+[gestion de movilidad](gestiondepotenciaysentidos)
 
 [documentación de la recarga de firmware](camara)
 
