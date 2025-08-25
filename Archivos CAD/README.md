@@ -1,1 +1,1 @@
-AQUI VA EL README DE ESTA CARPETA
+Aqui se encuentran los archivos CAD utilizados para elaborar a REXBOT2.0
