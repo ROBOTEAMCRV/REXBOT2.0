@@ -8,6 +8,8 @@ Este repositorio contiene todos los materiales necesarios para crear a "Rexbot",
  TABLA DE CONTENIDO
 [Miembros del equipo TEAMROBOCRV]
 
+[gestión de potencia y sentidos](gestión_de_potencia_y_sentidos)
+
 [gestión de movilidad](gestión_de_movilidad)
 
 [Videos](Videos)
