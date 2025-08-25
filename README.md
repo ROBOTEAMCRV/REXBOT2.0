@@ -88,7 +88,7 @@ Cámara HuskyLens (Gravity): Es un sensor visual integrado con IA, esta utiliza 
 
 Servo motor (MG996R): Es un motor eléctrico con sensor de retroalimentación de posición integrado, que permite realizar movimientos angulares perfectos, utilizando una señal que va de 0V a 5V, donde cada valor que pueda tener el voltaje representa un ángulo exacto.
 
-![image](https://github.com/user-attachments/assets/26eff895-ec21-4677-b70d-ead8890a42b2)
+<img width="717" height="483" alt="servo motor hobby park" src="https://github.com/user-attachments/assets/41431964-1045-427c-af1e-a6033421740c" />
 
 Motor DC: Este es una máquina que convierte energía eléctrica  en energía mecánica, provocando un movimiento rotatorio, gracias a la acción de un campo mecánico. 
 
