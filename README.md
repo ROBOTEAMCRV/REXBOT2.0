@@ -14,6 +14,8 @@ Este repositorio contiene todos los materiales necesarios para crear a "Rexbot",
 
 [gestión de obstaculos](gestión_de_obstaculos)
 
+[Diagrama de cableado](diagrama_de_cableado)
+
 [Videos](Videos)
 
 [Fotos](Fotos)
