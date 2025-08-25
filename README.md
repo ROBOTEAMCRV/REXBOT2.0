@@ -12,6 +12,8 @@ Este repositorio contiene todos los materiales necesarios para crear a "Rexbot",
 
 [gestión de movilidad](gestión_de_movilidad)
 
+[gestión de obstaculos](gestión_de_obstaculos)
+
 [Videos](Videos)
 
 [Fotos](Fotos)
